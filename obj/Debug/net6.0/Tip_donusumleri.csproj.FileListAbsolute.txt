@@ -1,0 +1,15 @@
+/Users/osmanbatuhankalkan/Documents/Tip_donusumleri/bin/Debug/net6.0/Tip_donusumleri
+/Users/osmanbatuhankalkan/Documents/Tip_donusumleri/bin/Debug/net6.0/Tip_donusumleri.deps.json
+/Users/osmanbatuhankalkan/Documents/Tip_donusumleri/bin/Debug/net6.0/Tip_donusumleri.runtimeconfig.json
+/Users/osmanbatuhankalkan/Documents/Tip_donusumleri/bin/Debug/net6.0/Tip_donusumleri.dll
+/Users/osmanbatuhankalkan/Documents/Tip_donusumleri/bin/Debug/net6.0/Tip_donusumleri.pdb
+/Users/osmanbatuhankalkan/Documents/Tip_donusumleri/obj/Debug/net6.0/Tip_donusumleri.csproj.AssemblyReference.cache
+/Users/osmanbatuhankalkan/Documents/Tip_donusumleri/obj/Debug/net6.0/Tip_donusumleri.GeneratedMSBuildEditorConfig.editorconfig
+/Users/osmanbatuhankalkan/Documents/Tip_donusumleri/obj/Debug/net6.0/Tip_donusumleri.AssemblyInfoInputs.cache
+/Users/osmanbatuhankalkan/Documents/Tip_donusumleri/obj/Debug/net6.0/Tip_donusumleri.AssemblyInfo.cs
+/Users/osmanbatuhankalkan/Documents/Tip_donusumleri/obj/Debug/net6.0/Tip_donusumleri.csproj.CoreCompileInputs.cache
+/Users/osmanbatuhankalkan/Documents/Tip_donusumleri/obj/Debug/net6.0/Tip_donusumleri.dll
+/Users/osmanbatuhankalkan/Documents/Tip_donusumleri/obj/Debug/net6.0/refint/Tip_donusumleri.dll
+/Users/osmanbatuhankalkan/Documents/Tip_donusumleri/obj/Debug/net6.0/Tip_donusumleri.pdb
+/Users/osmanbatuhankalkan/Documents/Tip_donusumleri/obj/Debug/net6.0/Tip_donusumleri.genruntimeconfig.cache
+/Users/osmanbatuhankalkan/Documents/Tip_donusumleri/obj/Debug/net6.0/ref/Tip_donusumleri.dll
